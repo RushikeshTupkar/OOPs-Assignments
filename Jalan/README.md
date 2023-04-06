@@ -31,6 +31,7 @@ In this project you can select your car type and multiple services you want to d
 The bill will generate according to service rates.
 
 
+![Screenshot (1830)](https://user-images.githubusercontent.com/112196925/230361651-c2c0a8f1-76ee-4772-89ac-db4618c9ef68.png)
 
 
 
